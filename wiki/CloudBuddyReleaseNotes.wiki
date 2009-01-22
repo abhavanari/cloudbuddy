@@ -1,0 +1,22 @@
+#labels Featured,ReleaseNotes
+#This page contains the release notes information for CloudBuddy 1.4 Beta
+
+= ReleaseNotes =
+
+Cloudbuddy_SetUp_1.4 Beta has been released with the following features and issues fixed. 
+
+
+= New Features =
+
+  # Support for multiple views (FileView and MailView)
+  # Mail Explorer in Oulook Plugin
+  # Right Click Copy public/private URI to clipboard
+  # Share History can be tracked and managed
+
+
+
+= Issues Fixed = 
+
+ # Plug-in not being loaded in some machines during Ms-Office applications startup
+ # File upload shows wrong progress
+ # API related dll's are bundled together
