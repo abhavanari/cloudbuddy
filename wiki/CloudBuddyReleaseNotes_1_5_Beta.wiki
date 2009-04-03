@@ -1,0 +1,17 @@
+*CloudBuddyReleaseNotes_1_5_Beta* 
+
+#This page contains the release notes information for CloudBuddy? 1.5 Beta 
+
+=ReleaseNotes?=
+
+Cloudbuddy_SetUp_1?.5 Beta has been released with the following features. 
+
+= Features=
+
+1. JungleDisk Bucket Support.
+
+2. Synchronization.
+
+3. Caching mechanism to boost Download process.
+
+4. Drag and Drop support.
