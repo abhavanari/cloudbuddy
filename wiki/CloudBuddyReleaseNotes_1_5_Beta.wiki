@@ -16,3 +16,10 @@ Cloudbuddy_SetUp_1?.5 Beta has been released with the following features.
 3. Caching Mechanism to Boost Download Process.
 
 4. Drag and Drop Support.
+
+
+=Bug Fixes=
+
+Issue 1 : Upload folder is uploading files rather than the folder and its files
+
+Now upload file and folder is simple and you also have drag and drop facility.
