@@ -13,6 +13,6 @@ Cloudbuddy_SetUp_1?.5 Beta has been released with the following features.
 
 2. Synchronization.
 
-3. Caching mechanism to boost Download process.
+3. Caching Mechanism to Boost Download Process.
 
-4. Drag and Drop support.
+4. Drag and Drop Support.
