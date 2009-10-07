@@ -4,7 +4,7 @@
 #This page contains the release notes information for CloudBuddy 2.0.2
 
 
-==ReleaseNotes==
+== Release Notes ==
 CloudBuddy 2.0.2 has been released with the following features. 
 
 ==Features==
