@@ -1,4 +1,4 @@
-#labels Featured,ReleaseNotes,Deprecated
+#labels Featured,ReleaseNotes
 =CloudBuddyReleaseNotes_2_0_2= 
 
 #This page contains the release notes information for CloudBuddy 2.0.2
