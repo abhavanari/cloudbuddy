@@ -1,4 +1,4 @@
-#labels Featured,ReleaseNotes,Deprecated
+#labels Featured,ReleaseNotes
 =CloudBuddyWebDav_1_0= 
 
 #This page contains the release notes information for CloudBuddy WebDav 1.0
