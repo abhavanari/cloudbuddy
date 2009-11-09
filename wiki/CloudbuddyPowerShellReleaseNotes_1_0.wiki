@@ -1,4 +1,4 @@
-#labels Featured,ReleaseNotes
+#labels Featured,ReleaseNotes,Deprecated
 CloudbuddyPowerShellReleaseNotes_1_0
 
 =CloudBuddyPowerShell_1_0= 
