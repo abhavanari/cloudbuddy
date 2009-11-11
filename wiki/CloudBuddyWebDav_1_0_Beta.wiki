@@ -1,10 +1,11 @@
+#labels Featured,ReleaseNotes
 =CloudBuddyWebDav_1_0_Beta= 
 
-#This page contains the release notes information for CloudBuddy WebDav 1.0
+#This page contains the release notes information for CloudBuddy WebDav 1.0 Beta
 
 
 == Release Notes ==
-CloudBuddy WebDav 1.0 has been released with the following features. 
+CloudBuddy WebDav 1.0 Beta has been released with the following features. 
 
 ==Features==
 
