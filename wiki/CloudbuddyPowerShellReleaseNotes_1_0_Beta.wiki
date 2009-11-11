@@ -1,6 +1,4 @@
 #labels Featured,ReleaseNotes
-CloudbuddyPowerShellReleaseNotes_1_0_Beta
-
 =CloudBuddyPowerShell_1_0_Beta= 
 
 #This page contains the release notes information for CloudBuddy PowerShell 1.0 Beta
