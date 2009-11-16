@@ -1,0 +1,13 @@
+=CloudBuddyPersonalReleaseNotes_2_0_4= 
+
+#This page contains the release notes information for CloudBuddy 2.0.4
+
+
+== Release Notes ==
+CloudBuddy Personal 2.0.4 has been released with the following bug fixes. 
+
+==Bugs fixed==
+
+1. Listing buckets and files in Windows Vista.
+
+2. Cancellation of Upload/Download.
