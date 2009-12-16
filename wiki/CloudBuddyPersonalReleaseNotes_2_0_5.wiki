@@ -1,14 +1,16 @@
 #labels Featured,ReleaseNotes
 =CloudBuddyPersonalReleaseNotes_2_0_5= 
 
-#This page contains the release notes information for CloudBuddy 2.0.5
+#This page contains the release notes information for CloudBuddy Personal 2.0.5
 
 
 == Release Notes ==
-CloudBuddy Personal 2.0.5 has been released with the following features and BugFixes. 
+CloudBuddy Personal 2.0.5 has been released with the following features. 
 
 
 ==Features==
-1. CloudFront Streaming Distribution support.
+1. CloudFront Streaming Distribution is enabled with Test Bed embedded in it.
 
-2. Separate installer for CloudBuddy Personal Office.
+2. Separate MS Office plug-in installer for CloudBuddy Personal.
+
+< End of Release Notes >
