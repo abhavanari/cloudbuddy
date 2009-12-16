@@ -1,0 +1,12 @@
+#labels Featured,ReleaseNotes
+=CloudBuddyPersonalOfficeReleaseNotes_2_0_5= 
+
+#This page contains the release notes information for CloudBuddy 2.0.5
+
+
+== Release Notes ==
+CloudBuddy Personal Office 2.0.5 has been released with the following features and BugFixes. 
+
+
+==Bug Fixes==
+1. CloudBuddy Personal plugin menu item is retained even after uninstalling CloudBuddy Personal - Fixed.
