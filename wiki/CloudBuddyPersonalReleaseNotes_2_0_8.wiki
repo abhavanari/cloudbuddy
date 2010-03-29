@@ -1,4 +1,4 @@
-#labels ReleaseNotes,Featured
+#labels Featured,ReleaseNotes
 =CloudBuddyPersonalReleaseNotes_2_0_8= 
 
 #This page contains the release notes information for CloudBuddy Personal 2.0.8
