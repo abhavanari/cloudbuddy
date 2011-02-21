@@ -13,6 +13,3 @@ CloudBuddy Personal 2.0.9.7 has been released with the following Features.
 
 
 < End of Release Notes >
-
-
-ReleaseNotes
