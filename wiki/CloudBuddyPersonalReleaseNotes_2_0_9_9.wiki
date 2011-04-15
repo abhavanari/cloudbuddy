@@ -1,0 +1,18 @@
+#labels Featured,ReleaseNotes
+=CloudBuddyPersonalReleaseNotes_2_0_9_9= 
+
+#This page contains the release notes information for CloudBuddy Personal 2.0.9.9
+
+
+== Release Notes ==
+CloudBuddy Personal 2.0.9.9 has been released with the following Features. 
+
+==Features==
+
+1. Hosting Static Website in Amazon S3
+2. Updates in AWS EC2 Dashboard Plug-in
+3. Updates in Website Hosting Plug-in
+4. Bug fix
+
+
+< End of Release Notes >
