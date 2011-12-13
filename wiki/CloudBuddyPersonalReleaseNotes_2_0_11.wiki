@@ -9,6 +9,6 @@ CloudBuddy Personal 2.0.11 has been released with the following Features.
 
 ==Features==
 1. Route 53 Plug-in
-2. Bug fix
+3. Bug fix
 
 < End of Release Notes >
