@@ -1,0 +1,17 @@
+# CloudBuddyReleaseNotes\_2\_0\_1 #
+
+#This page contains the release notes information for CloudBuddy 2.0.1
+
+
+## ReleaseNotes ##
+CloudBuddy 2.0.1 has been released with the following features.
+
+## Features ##
+
+1. File Open :- When you double click on the file (File View), it will download into local and open it
+
+## Bugs fixed ##
+
+1.Encryption issue
+
+2.File upload issue when the file is opened

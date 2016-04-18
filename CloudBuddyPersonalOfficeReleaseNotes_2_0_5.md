@@ -1,0 +1,19 @@
+# CloudBuddyPersonalOfficeReleaseNotes\_2\_0\_5 #
+
+#This page contains the release notes information for CloudBuddy Personal Office 2.0.5
+
+
+## Release Notes ##
+CloudBuddy Personal Office 2.0.5 has been released with the following BugFixes.
+
+
+## Bug Reported ##
+CloudBuddy Personal plug-in menu item is retained in Microsoft Word even after uninstalling CloudBuddy Personal.
+
+## Status ##
+Fixed.
+
+## Fix Provided ##
+On uninstalling the CloudBuddy Personal Office, the CloudBuddy Personal plug-in menu item will be removed from all Microsoft Office application.
+
+< End of Release Notes >

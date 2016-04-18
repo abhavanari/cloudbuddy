@@ -1,0 +1,15 @@
+# CloudBuddyPersonalReleaseNotes\_2\_0\_10 #
+
+#This page contains the release notes information for CloudBuddy Personal 2.0.10
+
+
+## Release Notes ##
+CloudBuddy Personal 2.0.10 has been released with the following Features.
+
+## Features ##
+1. Updates in AWS EC2 Dashboard Plug-in
+> - Projected billing
+2. Updates in CloudFront Plug-in
+4. Bug fix
+
+< End of Release Notes >

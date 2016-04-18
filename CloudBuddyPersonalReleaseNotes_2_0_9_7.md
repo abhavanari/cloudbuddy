@@ -1,0 +1,14 @@
+# CloudBuddyPersonalReleaseNotes\_2\_0\_9\_7 #
+
+#This page contains the release notes information for CloudBuddy Personal 2.0.9.7
+
+
+## Release Notes ##
+CloudBuddy Personal 2.0.9.7 has been released with the following Features.
+
+## Features ##
+
+1. Bug Fix in S3 Site Plug-in
+
+
+< End of Release Notes >

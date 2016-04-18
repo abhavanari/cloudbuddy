@@ -1,0 +1,18 @@
+# CloudBuddyPowerShell\_1\_0\_Beta #
+
+#This page contains the release notes information for CloudBuddy PowerShell 1.0 Beta
+
+## Release Notes ##
+CloudBuddy PowerShell 1.0 Beta has been released with the following features.
+
+## Features ##
+
+1. Command Line access to your S3 Accounts
+
+2. Easy to use cmdlets
+
+3. No need for seperate Account Configuration
+
+4. Supports all bucket operations
+
+5. Reliable Upload/Download via CloudBuddy Personal Service

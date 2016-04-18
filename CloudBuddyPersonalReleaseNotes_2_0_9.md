@@ -1,0 +1,15 @@
+# CloudBuddyPersonalReleaseNotes\_2\_0\_9 #
+
+#This page contains the release notes information for CloudBuddy Personal 2.0.9
+
+
+## Release Notes ##
+CloudBuddy Personal 2.0.9 has been released with the following Features.
+
+## Features ##
+
+1. Asia Pacific (Singapore) Region support.
+
+2. Versioning Feature for Amazon S3
+
+< End of Release Notes >

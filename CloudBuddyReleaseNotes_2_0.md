@@ -1,0 +1,27 @@
+# CloudBuddyReleaseNotes\_2\_0 #
+
+#This page contains the release notes information for CloudBuddy?? 2.0
+
+
+## ReleaseNotes?? ##
+Cloudbuddy\_SetUp?_2?.0 has been released with the following features._
+
+## Features ##
+
+1. New Look and Feel
+
+2. Plug-in Framework
+
+3. Encryption
+
+4. Key board short cuts
+
+5. CloudFront Distribution
+
+6. More features in MS- Office
+
+## Bugs fixed ##
+
+1. Mail View pagination
+
+2. Share history view

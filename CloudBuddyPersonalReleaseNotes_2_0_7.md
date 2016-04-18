@@ -1,0 +1,17 @@
+# CloudBuddyPersonalReleaseNotes\_2\_0\_7 #
+
+#This page contains the release notes information for CloudBuddy Personal 2.0.7
+
+
+## Release Notes ##
+CloudBuddy Personal 2.0.7 has been released with the following Features.
+
+## Features ##
+
+1. USWEST1 region support.
+
+2. Default Bucket support.
+
+3. Enabling Proxy support.
+
+< End of Release Notes >

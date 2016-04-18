@@ -1,0 +1,13 @@
+# CloudBuddyPersonalReleaseNotes\_2\_0\_9\_4 #
+
+#This page contains the release notes information for CloudBuddy Personal 2.0.9.4
+
+
+## Release Notes ##
+CloudBuddy Personal 2.0.9.4 has been released with the following Features.
+
+## Features ##
+
+1. Amazon CloudFront Default Root Object Capability
+
+< End of Release Notes >

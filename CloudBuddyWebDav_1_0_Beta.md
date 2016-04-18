@@ -1,0 +1,21 @@
+# CloudBuddyWebDav\_1\_0\_Beta #
+
+#This page contains the release notes information for CloudBuddy WebDav 1.0 Beta
+
+
+## Release Notes ##
+CloudBuddy WebDav 1.0 Beta has been released with the following features.
+
+## Features ##
+
+1. Can be mounted as a Web folder over the Network
+
+2. Easy to share among the workgroup users
+
+3. Multi user Support
+
+4. Specify access previlage for Individual users
+
+5. Supports all file operations
+
+6. Windows Search Support

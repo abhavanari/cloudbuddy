@@ -1,0 +1,13 @@
+# CloudBuddyPersonalReleaseNotes\_2\_0\_11 #
+
+#This page contains the release notes information for CloudBuddy Personal 2.0.11
+
+
+## Release Notes ##
+CloudBuddy Personal 2.0.11 has been released with the following Features.
+
+## Features ##
+1. Route 53 Plug-in
+2. Bug fix
+
+< End of Release Notes >

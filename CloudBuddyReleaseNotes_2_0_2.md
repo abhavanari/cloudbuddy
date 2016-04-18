@@ -1,0 +1,25 @@
+# CloudBuddyReleaseNotes\_2\_0\_2 #
+
+#This page contains the release notes information for CloudBuddy 2.0.2
+
+
+## Release Notes ##
+CloudBuddy 2.0.2 has been released with the following features.
+
+## Features ##
+
+1. Rename File/Folder.
+
+2. Short URL - bit.ly URL support.
+
+3. Details View UI Look and Feel Changed.
+
+4. CloudFront Logging support enabled.
+
+## Bugs fixed ##
+
+1. Find Updates issue.
+
+2. Metadata issue during upload.
+
+3. CloudFront Distribution URL issue.
